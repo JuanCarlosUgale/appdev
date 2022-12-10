@@ -12,3 +12,4 @@ if let num2 = Int(readLine()!){
 
 print("The product: \(product)")
 
+
