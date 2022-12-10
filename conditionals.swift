@@ -1,4 +1,3 @@
-Conditionals 
 func checkUser(input: Int) -> String{
 var choice = true
 var input = 0
